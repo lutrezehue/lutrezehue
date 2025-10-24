@@ -1,7 +1,7 @@
 <div align="center">
     <img 
         width="100%" 
-        src="https://cdn.jsdelivr.net/gh/nocturnalDev11/nocturnalDev11/header-3.gif" 
+        src="https://cdn.jsdelivr.net/gh/nocturnalDev11/nocturnalDev11/gif/header-4.gif" 
     />
 </div>
 
@@ -107,21 +107,8 @@
     <img width="10" />
 </div>
 
-### GitHub Stats 
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phantomDev11&theme=cobalt" width="100%" height="auto" />
-</div>
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phantomDev11&theme=cobalt" width="49%" height="auto" style="display: inline;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phantomDev11&theme=cobalt" width="49%" height="auto" style="display: inline;" />
-</div>
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phantomDev11&theme=cobalt" width="49%" height="auto" style="display: inline;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phantomDev11&theme=cobalt&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
-</div>
-
-<div align="center">
+<!-- <div align="center">
     <img src="https://raw.githubusercontent.com/phantomDev11/phantomDev11/output/snake.svg" alt="Snake animation" width="100%" height="auto" />
-</div>
+</div> -->
 
 
