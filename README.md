@@ -107,8 +107,12 @@
     <img width="10" />
 </div>
 
-<!-- <div align="center">
-    <img src="https://raw.githubusercontent.com/phantomDev11/phantomDev11/output/snake.svg" alt="Snake animation" width="100%" height="auto" />
-</div> -->
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lutrezehue/lutrezehue/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lutrezehue/lutrezehue/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lutrezehue/lutrezehue/output/pacman-contribution-graph.svg">
+    </picture>
+</div>
 
 
