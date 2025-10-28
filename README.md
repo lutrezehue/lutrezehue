@@ -5,6 +5,14 @@
     />
 </div>
 
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lutrezehue/lutrezehue/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lutrezehue/lutrezehue/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lutrezehue/lutrezehue/output/pacman-contribution-graph.svg">
+    </picture>
+</div>
+
 <details>
     <summary>
         <h3> About me (Click to expand)</h3>
@@ -105,14 +113,6 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" title="Figma" />
     <img width="10" />
-</div>
-
-<div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lutrezehue/lutrezehue/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lutrezehue/lutrezehue/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lutrezehue/lutrezehue/output/pacman-contribution-graph.svg">
-    </picture>
 </div>
 
 
