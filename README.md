@@ -15,11 +15,6 @@ I write code for a living, which is a fancy way of saying I Google things profes
 
 Currently working with C# / ASP.NET, React, and TypeScript. I care deeply about clean architecture, reusable components, and commit messages that actually mean something. My code may not always be perfect, but it will always have a home.
 
-### GitHub Stats 
-<div align="center">
-    <img src="https://streak-stats.demolab.com/?user=lutrezehue&theme=tokyonight&hide_border=true" width="98.5%" height="auto" />
-</div>
-
 ---
 
 ### Languages, Frameworks, Tools and IDE's
